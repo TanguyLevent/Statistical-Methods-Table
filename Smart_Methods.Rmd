@@ -13,6 +13,6 @@ Based on the STAT500 course of Pennsylvania State University, I have a created a
 R markdown script to share a effective and logical table/tree. The goal is to have
 a smart guid to find the best statistical technics compared research scenarios.
 
-At each finality have a "Row #". Click [here](https://onlinecourses.science.psu.edu/stat500/sites/onlinecourses.science.psu.edu.stat500/files/lesson14/summary_table.pdf) it to find a summary table of the statistical method you choose.  
+At each finality have a "Row #". Click [here](https://github.com/TanguyLevent/Statistical-Methods-Table/blob/master/summary_table.pdf) it to find a summary table of the statistical method you choose.  
 
 ![Statistical Methods Tree](Methods_tree.png)
