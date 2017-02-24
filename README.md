@@ -3,3 +3,5 @@ To determine what statistical methods to use for specific situations, summary, a
 
 Based on the course STAT500 of the Pennsylvania State University.
 
+Let see the [tree](https://github.com/TanguyLevent/Statistical-Methods-Table/blob/master/Smart_Methods.Rmd)
+
