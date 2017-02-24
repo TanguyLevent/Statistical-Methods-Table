@@ -2,7 +2,9 @@
 title: "Methos_tree"
 author: "Tanguy Levent"
 date: "24 février 2017"
-output: html_document
+output:
+  html_document: default
+  pdf_document: default
 ---
 
 ## Statistical methods  
@@ -13,4 +15,4 @@ a smart guid to find the best statistical technics compared research scenarios.
 
 At each finality have a "Row #". Click on it to find a summary table of the statistical method you choose.  
 
-![Sample panel plot](Methods_tree.png)
+![Statistical Methods Tree](Methods_tree.png)
